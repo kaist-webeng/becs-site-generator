@@ -8,7 +8,7 @@
     {% set toc = (toc | first).children %}
   {% endif %}
   {% if toc | first is defined %}
-    <label class="md-nav__title" for="__toc">
+    <label class="md-nav__title" for="__toc" style="font-size: 1.0rem">
       <span class="md-nav__icon md-icon"></span>
       {{ lang.t("toc.title") }}
     </label>

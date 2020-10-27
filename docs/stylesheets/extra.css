@@ -1,0 +1,5 @@
+:root {
+    --md-primary-fg-color:        rgb(11, 124, 193);
+    --md-primary-fg-color--light: rgb(158, 220, 248);
+    --md-primary-fg-color--dark:  rgb(6, 65, 102);
+  }
