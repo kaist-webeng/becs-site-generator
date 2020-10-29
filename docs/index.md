@@ -67,3 +67,15 @@
 ## IT 산업, 경제 발전 기대 효과
 
 <img src="assets/images/economic.png" alt="산업 및 경제적인 발전이 기대되는 효과">
+
+---
+
+## Contact
+
+Research Center for Big data Edge Cloud Services (BECS)  
+Korea Advanced Institute of Science and Technology (KAIST)
+
+\#507, N1 Building, 291 Daehak-ro, Yuseong-gu, Daejeon, 34141, South Korea<br>
+Phone: +82-42-350-7847<br>
+Fax: +82-42-350-8140<br>
+Web: [http://becs.kaist.ac.kr/](http://becs.kaist.ac.kr/)
