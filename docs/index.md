@@ -1,5 +1,11 @@
 <img src="assets/images/becs-logo.png" alt="연구센터 로고">
 
+## 센터 YouTube 영상
+
+|연구센터 소개|연구센터 성과|
+|----|----|
+|<iframe width="560" height="315" src="https://www.youtube.com/embed/_Vpfo9mL0dI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|<iframe width="560" height="315" src="https://www.youtube.com/embed/OC_hScjyRQI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
+
 ## 센터의 비전 및 목표
 
 <img src="assets/images/vision.png" alt="빅데이터 엣지 클라우드 서비스 고급 인력 양성">

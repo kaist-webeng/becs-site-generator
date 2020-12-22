@@ -3,3 +3,7 @@
     --md-primary-fg-color--light: rgb(158, 220, 248);
     --md-primary-fg-color--dark:  rgb(6, 65, 102);
   }
+
+th {
+  text-align: center !important;
+}
